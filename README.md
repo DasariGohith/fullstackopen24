@@ -1,4 +1,4 @@
-# [Full Stack Open 2020](https://fullstackopen.com/en/)
+# [Full Stack Open 2024](https://fullstackopen.com/en/)
 
 This course is held at the Department of Computer Science at the University of Helsinki in Spring 2024
 
